@@ -1,0 +1,48 @@
+.navbar{
+    height: 55px;
+    flex: auto;
+
+}
+input.searche{
+    height: 36px;
+    max-width: 500px;
+    background-color: #eef3f8;
+    border: 0;
+}
+input.searche::placeholder {
+    font-size: 14px;
+    color: gray;
+    background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+    background-repeat: no-repeat;
+    background-size: 7%; }
+.body{
+    background: #f3f2ef;
+}
+.navtext{
+    font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 10px;
+  font-weight: lighter;
+text-align: center;
+}
+
+button.mediatext:hover {
+    color: #5f5f5f; }
+   
+.nav-link{
+
+   
+    text-align: center;
+}
+
+.card-body span{
+    font-size: small;
+
+}
+.card-body button{
+
+}
+.card-footer{
+    
+}
